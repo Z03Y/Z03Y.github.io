@@ -1,6 +1,7 @@
 ---
-title: Just a test
-layout: post
+title: Welcome to the world of web-development AAARGGGHH!
+layout: default
 ---
 
-Here is my page.
+Shoot me!
+
